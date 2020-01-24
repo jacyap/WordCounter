@@ -26,5 +26,5 @@ Note:
 - You might need to mention the .pl file extension in the .bat to run TeXcount
 
 TotalWordCount.txt example:\
-1118 22/01/2020 1234
+1118 22/01/2020 1234\
 1827 23/01/2020 2345
