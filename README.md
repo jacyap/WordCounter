@@ -24,4 +24,4 @@ https://app.uio.no/ifi/texcount/
 Note:
 - Run all files from your Chapters directory
 - Might need to create empty blank countX.txt files for each chapter
-- Your .bat might need the .pl file extension to run TeXcount
+- You might need to mention the .pl file extension in the .bat to run TeXcount
