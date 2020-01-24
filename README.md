@@ -8,7 +8,7 @@ In (probably) my second year I realised that TeXstudio didn't have an easy way o
 1. Count words in the main text body (skips all the LaTeX commands) for each chapter
 2. Sum up up chapter totals 
 3. Append the time, date, year and the total word count to a .txt document
-4. Do this by double clicking one file
+4. Do this by just double clicking on a single file
 
 Might be a bit convoluted but I didn't want to commit more time on this, it does the job!
 
