@@ -13,3 +13,12 @@ In (probably) my second year I realised that TeXstudio didn't have an easy way o
 Might be a bit convoluted but I didn't want to commit more time on this, it does the job!
 
 Use this for however you see fit.
+
+
+Required software:
+
+TeXcount
+https://app.uio.no/ifi/texcount/
+
+Perl
+Python
