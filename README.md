@@ -17,7 +17,7 @@ You might need to change some things for your purposes but use this for however 
 Required software:
 - TeXcount
 https://app.uio.no/ifi/texcount/
-- Perl
+- Perl (have included the .pl file here for ease)
 - Python
 
 Note:
