@@ -25,5 +25,5 @@ Note:
 - Might need to create empty blank countX.txt files for each chapter
 - You might need to mention the .pl file extension in the .bat to run TeXcount
 
-TotalWordCount.txt example:
+TotalWordCount.txt example:\
 1118 23/01/2020 7777
