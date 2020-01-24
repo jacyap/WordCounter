@@ -16,11 +16,10 @@ You might need to change some things for your purposes but use this for however 
 
 Required software:
 
-TeXcount
+- TeXcount
 https://app.uio.no/ifi/texcount/
-
-Perl\
-Python
+- Perl
+- Python
 
 Note:
 - Run all files from your Chapters directory
