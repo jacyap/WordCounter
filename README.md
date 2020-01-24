@@ -12,13 +12,17 @@ In (probably) my second year I realised that TeXstudio didn't have an easy way o
 
 Might be a bit convoluted but I didn't want to commit more time on this, it does the job!
 
-Use this for however you see fit.
-
+You might need to change some things for your purposes but use this for however you see fit.
 
 Required software:
 
 TeXcount
 https://app.uio.no/ifi/texcount/
 
-Perl
+Perl\
 Python
+
+Note:
+- Run all files from your Chapters directory
+- Might need to create empty blank countX.txt files for each chapter
+- Your .bat might need the .pl file extension to run TeXcount
