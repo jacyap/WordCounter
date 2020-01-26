@@ -1,5 +1,5 @@
 # WordCounter
-.bat executable to sum up your total word count in a latex document
+.bat executable to sum up your total word count in a LaTeX document
 
 Written by Jacinta Yap, 2020
 
