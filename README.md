@@ -3,7 +3,7 @@
 
 Written by Jacinta Yap, 2020
 
-In (probably) my second year I realised that TeXstudio didn't have an easy way of displaying my word count. I thought this feature would be useful for when I was writing up my PhD Thesis using LaTeX, so using a combination of perl & python, I wrote this script to:
+In (probably) my second year I realised that TeXstudio didn't have an easy way of displaying my word count. I thought this feature would be useful for when I was writing up my PhD Thesis in LaTeX. Using a combination of perl & python, I wrote this script to:
 
 1. Count words in the main text body (skips all the LaTeX commands) for each chapter
 2. Sum up up chapter totals 
