@@ -12,7 +12,7 @@ In (probably) my second year I realised that TeXstudio didn't have an easy way o
 
 Might be a bit convoluted but I didn't want to commit more time on this, it does the job!
 
-You might need to change some things for your purposes but use this for however you see fit.
+You might need to change some things for your purposes (i.e. numbers of chapters) but use this for however you see fit.
 
 Required software:
 - TeXcount (have included the texcount.pl file here for ease)
