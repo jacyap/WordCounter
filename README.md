@@ -15,10 +15,10 @@ Might be a bit convoluted but I didn't want to commit more time on this, it does
 You might need to change some things for your purposes (i.e. numbers of chapters) but use this for however you see fit.
 
 Required software:
-- TeXcount (have included the texcount.pl file here for ease)
+- TeXcount (have included the texcount.pl file here for ease):
 https://app.uio.no/ifi/texcount/
-- Perl https://www.perl.org/get.html
-- Python https://www.python.org/downloads/
+- Perl: https://www.perl.org/get.html
+- Python: https://www.python.org/downloads/
 
 Note:
 - Run all files from your Chapters directory (make sure the chapterX.tex files are defined correctly in the .bat file)
