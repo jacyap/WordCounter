@@ -10,7 +10,7 @@ In (probably) my second year I realised that TeXstudio didn't have an easy way o
 3. Append the time, date, year and the total word count to a .txt document
 4. Do this by just double clicking on a single file
 
-Might be a bit convoluted but I didn't want to commit more time on this, it does the job!
+Might be a bit convoluted but I didn't want to commit more time to this, it does the job!
 
 You may need to change some things for your purposes (i.e. numbers of chapters) but use this for whatever your purpose.
 
@@ -22,7 +22,7 @@ https://app.uio.no/ifi/texcount/
 
 Note:
 - Run all files from your Chapters directory (make sure the chapterX.tex files are defined correctly in the .bat file)
-- Might need to create empty blank countX.txt files for each chapter
+- You might need to create empty blank countX.txt files for each chapter
 - You might need to mention the .pl extension in the .bat file to run TeXcount
 - The '-1' option for TeXcount sums the total words in the main body of text, check the user guide if you want to see what it classifies as a word. If you want it to count other things (headers, floats, captions etc.) change this, all options are listed in here: https://app.uio.no/ifi/texcount/howto.html
 
