@@ -22,11 +22,11 @@ https://app.uio.no/ifi/texcount/
 
 Note:
 - Run all files from your Chapters directory (make sure the chapterX.tex files are defined correctly in the .bat file)
-- You might need to create empty blank countX.txt files for each chapter
+- You might need to create empty blank *countX.txt* files for each chapter
 - You might need to mention the .pl extension in the .bat file to run TeXcount
 - The '-1' option for TeXcount sums the total words in the main body of text, check the user guide if you want to see what it classifies as a word. If you want it to count other things (headers, floats, captions etc.) change this, all options are listed in here: https://app.uio.no/ifi/texcount/howto.html
 
-TotalWordCount.txt example:\
+*TotalWordCount.txt* example:\
 1118 22/01/2020 1234\
 1827 23/01/2020 2345
 
