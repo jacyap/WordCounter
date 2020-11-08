@@ -30,8 +30,10 @@ TotalWordCount.txt example:\
 1118 22/01/2020 1234\
 1827 23/01/2020 2345
 
-**Bonus: Python script to plot progress over time**
+### Bonus: Python script to plot progress over time
 
-Run PlotWordCount.py with your TotalWordCount.txt to plot your progress, as shown below -
+Run *PlotWordCount.py* with your *TotalWordCount.txt* to plot your progress, as shown below -
 
-![WordCountPlot](https://github.com/jacyap/WordCounter/blob/master/TotalWordCount_JYAP.png)
+![WordCountPlot](https://github.com/jacyap/WordCounter/blob/master/TotalWordCount_JYAP.png)\
+
+Script should automate and scale according to your own recorded entries. Have fun!
