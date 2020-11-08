@@ -82,10 +82,11 @@ ax2.yaxis.grid(which='major',linestyle='--',color='b',alpha=0.3)
 
 # x-axis: Date
 plt.margins(x=0)
-ax.xaxis.set_major_locator(mdates.DayLocator(interval=30))
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=29))
 ax.xaxis.set_major_formatter(DateFormatter('%b-%y'))
 plt.setp(ax.get_xticklabels(),rotation = 45)
 
+# saves plot automatically
 date_string = time.strftime("%d-%m-%Y.%H%M")
 savefile = 'TotalWordCount'+ date_string + ".png"
 plt.savefig(savefile, dpi=300, bbox_inches='tight')
