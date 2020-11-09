@@ -1,5 +1,5 @@
 # WordCounter
-A simple .bat executable to sum up your total word count in a LaTeX document (for TeXstudio in Windows)
+A simple .bat executable to sum up your total word count in a LaTeX document (for TeXstudio in Windows)\
 Written by Jacinta Yap, 2020
 
 In (probably) my second year I realised that TeXstudio didn't have an easy way of displaying my word count (without counting commands, headings, captions etc.). I thought this feature would be useful for when I was writing up my PhD Thesis in LaTeX using TeXstudio. I thought it'd also be interesting to see how my writing developed over time and what the overall trend would look like. So, using a combination of perl & python, I wrote this script to:
