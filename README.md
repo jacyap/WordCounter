@@ -37,5 +37,5 @@ Run *PlotWordCount.py* with your *TotalWordCount.txt* to plot your progress, as 
 
 ![WordCountPlot](https://github.com/jacyap/WordCounter/blob/master/TotalWordCount_JYAP.png)
 
-You can graph your ongoing progress with it too, script should automate and scale the plot according to your own recorded entries. 
+You can graph your ongoing progress with it too, script should automate and scale the plot according to your own recorded entries. \
 Good luck!
